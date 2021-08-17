@@ -1,0 +1,6 @@
+{
+  "errorCode": 123,
+  "error": "Connection to Database failed.",
+  "books":[
+  ]
+}
